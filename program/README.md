@@ -1,5 +1,9 @@
 ### Program 
-run
+run face_recog....py
+to for training and testing of the facial recognition
+
+run occlus....py
+to create the occluded facial database
 
 
 ### Data need to download outside
