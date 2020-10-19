@@ -1,0 +1,18 @@
+
+RESOURCE DATASET
+Georgia Tech Face
+- http://www.anefian.com/research/face_reco.htm
+68 point Landmark**
+FaceNet pretrained model**
+Mask Images
+- available in folder
+
+CREATED DATASET**
+Cropped Faces Images
+FF, OLF, EAOF Training Images
+FD, AD, FD Testing Images
+Face Embeddings
+
+
+**To be uploaded in google drive, bb can't handle large files or too large & slow
+
