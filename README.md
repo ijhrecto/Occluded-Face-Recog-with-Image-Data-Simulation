@@ -1,6 +1,6 @@
-# Occluded-Face-Recognition-with-Image-Data-Simulation
-the code to the research paper, to create a method for facial recognition on masked faces 
+### the files to the research paper, to create a method for facial recognition on masked faces 
 
+# Mask Occluded Face Recognition on a Controlled Environment using Convolutional Neural Networks
 - Ian James Recto, Mapua University, Metro Manila, Philippines 
 - Madhavi Devaraj, Asian Institute of Management, Metro Manila, Philippines
 
