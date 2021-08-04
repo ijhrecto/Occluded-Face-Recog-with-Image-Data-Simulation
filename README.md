@@ -1,8 +1,6 @@
 ### the files to the research paper, to create a method for facial recognition on masked faces 
 
 # Mask Occluded Face Recognition on a Controlled Environment using Convolutional Neural Networks
-- Ian James Recto, Mapua University, Metro Manila, Philippines 
-- Madhavi Devaraj, Asian Institute of Management, Metro Manila, Philippines
 
 ### Abstract
 Facial recognition is a widely used technology in recent years. Face masks are a common and an additional partial occlusion on faces. Due to the COVID-19 virus, there is an increase of face mask usage even inside the workplace. It contributes to the factors degrading the efficiency of the recognition system. This study focuses on an occlusion factor manifested by face masks with a varying design and category. The researchers proposed an approach by using diverse occluded face dataset for the training data. We processed both the face image and mask images using dlib to create an occluded training and testing image dataset.  For facial features, extraction was done by embedding the faces using FaceNet architecture. The faces were classified using Support Vector Machine. We experimented with different scenarios by using different training sets and testing sets. It achieved a performance of recognizing occluded lower face images with an average accuracy rate of 98.93% on a controlled environment.
